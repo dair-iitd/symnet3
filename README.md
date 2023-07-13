@@ -5,18 +5,11 @@ Code for SymNet3.0: Exploiting Long-Range Influences in Learning Generalized Neu
 
 
 
+Please download datasets and instances from [here][https://drive.google.com/file/d/1EWj65dVnTlRmj5iKcdFCC_7Lbf19jPhV/view?usp=sharing] into the main folder and unzip it.
 
 
 
 
-@inproceedings{
-    sharma2023symnet,
-    title={SymNet 3.0: Exploiting Long-Range Influences in Learning Generalized Neural Policies for Relational {MDP}s},
-    author={Vishal Sharma and Daman Arora and Mausam . and Parag Singla},
-    booktitle={The 39th Conference on Uncertainty in Artificial Intelligence},
-    year={2023},
-    url={https://openreview.net/forum?id=sWzgZUmJich}
-}
 ## Libraries required
 
 1. python3
@@ -75,3 +68,13 @@ The most important parameters are:
 
 
 Feel free to contact the authors if you run into issues.
+
+
+@inproceedings{
+    sharma2023symnet,
+    title={SymNet 3.0: Exploiting Long-Range Influences in Learning Generalized Neural Policies for Relational {MDP}s},
+    author={Vishal Sharma and Daman Arora and Mausam . and Parag Singla},
+    booktitle={The 39th Conference on Uncertainty in Artificial Intelligence},
+    year={2023},
+    url={https://openreview.net/forum?id=sWzgZUmJich}
+}
