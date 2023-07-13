@@ -1,7 +1,7 @@
 
 # SymNet3.0
 
-Code for SymNet3.0: Exploiting Long-Range Influences in Learning Generalized Neural Policies for Relational MDPs, UAI 2023
+Code for SymNet3.0: Exploiting Long-Range Influences in Learning Generalized Neural Policies for Relational MDPs, UAI 2023([link][https://openreview.net/forum?id=sWzgZUmJich])
 
 
 
