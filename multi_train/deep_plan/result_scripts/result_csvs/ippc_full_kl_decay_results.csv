@@ -1,0 +1,13 @@
+domain,prost,no_dist,kl_decay,kl_no_decay,no_kl
+tamarisk,0.85,0.9,0.9,0.89,0.9
+traffic,0.92,0.88,0.84,0.86,0.87
+sysadmin,0.76,0.83,0.82,0.76,0.84
+skill_teaching,0.85,0.81,0.76,0.55,0.75
+navigation,0.0,0.12,0.76,0.54,0.89
+triangle_tireworld,0.03,0.74,0.8,0.83,0.71
+recon,0.63,0.31,0.28,0.35,0.31
+elevators,0.91,0.93,0.86,0.77,0.88
+academic_advising,0.64,0.67,0.8,0.79,0.74
+crossing_traffic,0.35,0.76,0.8,0.86,0.8
+game_of_life,0.36,0.56,0.71,0.5,0.79
+wildfire,0.58,0.81,0.79,0.35,0.79

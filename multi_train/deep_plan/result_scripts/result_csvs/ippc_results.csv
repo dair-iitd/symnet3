@@ -1,0 +1,4 @@
+domain,prost,symnet2,symnet3_kl,symnet3_no_kl
+skill_teaching,0.86,0.89 +/- 0.02,0.57 +/- 0.07,0.89 +/- 0.02
+academic_advising,0.64,0.61 +/- 0.19,0.87 +/- 0.03,0.82 +/- 0.11
+game_of_life,0.43,0.83 +/- 0.04,0.17 +/- 0.01,0.42 +/- 0.18

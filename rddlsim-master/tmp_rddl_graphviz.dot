@@ -1,0 +1,799 @@
+digraph G {
+	graph [bb="0,0,684,2001",
+		fontname=Helvetica,
+		fontsize=16,
+		rankdir=LR,
+		ranksep=2.00,
+		ratio=auto,
+		size="7.5,10"
+	];
+	node [fontsize=16,
+		label="\N"
+	];
+	{
+		graph [rank=same];
+		"takeCourse($CS23)"		 [color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="114,1330",
+			shape=box,
+			style=filled,
+			width=2.3889];
+		"takeCourse($CS11)"		 [color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="114,1546",
+			shape=box,
+			style=filled,
+			width=2.3889];
+		"taken($CS14)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,1819",
+			shape=ellipse,
+			style=filled,
+			width=2.4552];
+		"taken($CS34)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,1111",
+			shape=ellipse,
+			style=filled,
+			width=2.4552];
+		"taken($CS22)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,1056",
+			shape=ellipse,
+			style=filled,
+			width=2.4552];
+		"takeCourse($CS31)"		 [color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="114,1438",
+			shape=box,
+			style=filled,
+			width=2.3889];
+		"passed($CS14)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,238",
+			shape=ellipse,
+			style=filled,
+			width=2.6517];
+		"passed($CS34)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,128",
+			shape=ellipse,
+			style=filled,
+			width=2.6517];
+		"passed($CS22)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,73",
+			shape=ellipse,
+			style=filled,
+			width=2.6517];
+		"taken($CS31)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,1764",
+			shape=ellipse,
+			style=filled,
+			width=2.4552];
+		"takeCourse($CS12)"		 [color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="114,1600",
+			shape=box,
+			style=filled,
+			width=2.3889];
+		"takeCourse($CS24)"		 [color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="114,1384",
+			shape=box,
+			style=filled,
+			width=2.3889];
+		"taken($CS23)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,1654",
+			shape=ellipse,
+			style=filled,
+			width=2.4552];
+		"takeCourse($CS32)"		 [color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="114,947",
+			shape=box,
+			style=filled,
+			width=2.3889];
+		"taken($CS11)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,1874",
+			shape=ellipse,
+			style=filled,
+			width=2.4552];
+		"passed($CS23)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,348",
+			shape=ellipse,
+			style=filled,
+			width=2.6517];
+		"passed($CS11)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,458",
+			shape=ellipse,
+			style=filled,
+			width=2.6517];
+		"passed($CS31)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,568",
+			shape=ellipse,
+			style=filled,
+			width=2.6517];
+		"takeCourse($CS33)"		 [color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="114,677",
+			shape=box,
+			style=filled,
+			width=2.3889];
+		"takeCourse($CS13)"		 [color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="114,893",
+			shape=box,
+			style=filled,
+			width=2.3889];
+		"Current State and Actions"		 [color=black,
+			fillcolor=white,
+			height=0.5,
+			pos="114,1983",
+			shape=plaintext,
+			style=bold,
+			width=3.1528];
+		"taken($CS24)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,1709",
+			shape=ellipse,
+			style=filled,
+			width=2.4552];
+		"taken($CS12)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,1929",
+			shape=ellipse,
+			style=filled,
+			width=2.4552];
+		"takeCourse($CS21)"		 [color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="114,839",
+			shape=box,
+			style=filled,
+			width=2.3889];
+		"taken($CS32)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,1221",
+			shape=ellipse,
+			style=filled,
+			width=2.4552];
+		"passed($CS24)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,403",
+			shape=ellipse,
+			style=filled,
+			width=2.6517];
+		"passed($CS12)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,513",
+			shape=ellipse,
+			style=filled,
+			width=2.6517];
+		"passed($CS32)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,623",
+			shape=ellipse,
+			style=filled,
+			width=2.6517];
+		"takeCourse($CS34)"		 [color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="114,785",
+			shape=box,
+			style=filled,
+			width=2.3889];
+		"takeCourse($CS22)"		 [color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="114,731",
+			shape=box,
+			style=filled,
+			width=2.3889];
+		"takeCourse($CS14)"		 [color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="114,1492",
+			shape=box,
+			style=filled,
+			width=2.3889];
+		"taken($CS13)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,1276",
+			shape=ellipse,
+			style=filled,
+			width=2.4552];
+		"taken($CS33)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,1001",
+			shape=ellipse,
+			style=filled,
+			width=2.4552];
+		"taken($CS21)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,1166",
+			shape=ellipse,
+			style=filled,
+			width=2.4552];
+		"passed($CS13)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,183",
+			shape=ellipse,
+			style=filled,
+			width=2.6517];
+		"passed($CS33)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,18",
+			shape=ellipse,
+			style=filled,
+			width=2.6517];
+		"passed($CS21)"		 [color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="114,293",
+			shape=ellipse,
+			style=filled,
+			width=2.6517];
+	}
+	{
+		graph [rank=same];
+		"taken'($CS14)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,1577",
+			shape=ellipse,
+			style=filled,
+			width=2.5534];
+		"taken'($CS34)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,792",
+			shape=ellipse,
+			style=filled,
+			width=2.5534];
+		"taken'($CS22)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,735",
+			shape=ellipse,
+			style=filled,
+			width=2.5534];
+		"Next State and Reward"		 [color=black,
+			fillcolor=white,
+			height=0.5,
+			pos="528,1983",
+			shape=plaintext,
+			style=bold,
+			width=2.8194];
+		"Reward Function"		 [color=black,
+			fillcolor=firebrick1,
+			height=0.72222,
+			pos="528,1276",
+			shape=diamond,
+			style=filled,
+			width=4.3333];
+		"passed'($CS14)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,623",
+			shape=ellipse,
+			style=filled,
+			width=2.7499];
+		"passed'($CS34)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,293",
+			shape=ellipse,
+			style=filled,
+			width=2.7499];
+		"passed'($CS22)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,183",
+			shape=ellipse,
+			style=filled,
+			width=2.7499];
+		"taken'($CS13)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,1083",
+			shape=ellipse,
+			style=filled,
+			width=2.5534];
+		"taken'($CS21)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,852",
+			shape=ellipse,
+			style=filled,
+			width=2.5534];
+		"taken'($CS33)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,679",
+			shape=ellipse,
+			style=filled,
+			width=2.5534];
+		"passed'($CS13)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,403",
+			shape=ellipse,
+			style=filled,
+			width=2.7499];
+		"passed'($CS33)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,128",
+			shape=ellipse,
+			style=filled,
+			width=2.7499];
+		"passed'($CS21)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,348",
+			shape=ellipse,
+			style=filled,
+			width=2.7499];
+		"taken'($CS24)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,1408",
+			shape=ellipse,
+			style=filled,
+			width=2.5534];
+		"taken'($CS32)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,990",
+			shape=ellipse,
+			style=filled,
+			width=2.5534];
+		"taken'($CS12)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,1924",
+			shape=ellipse,
+			style=filled,
+			width=2.5534];
+		"passed'($CS24)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,458",
+			shape=ellipse,
+			style=filled,
+			width=2.7499];
+		"passed'($CS12)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,1213",
+			shape=ellipse,
+			style=filled,
+			width=2.7499];
+		"passed'($CS32)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,568",
+			shape=ellipse,
+			style=filled,
+			width=2.7499];
+		"taken'($CS31)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,1483",
+			shape=ellipse,
+			style=filled,
+			width=2.5534];
+		"taken'($CS23)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,1343",
+			shape=ellipse,
+			style=filled,
+			width=2.5534];
+		"taken'($CS11)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,1711",
+			shape=ellipse,
+			style=filled,
+			width=2.5534];
+		"passed'($CS31)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,513",
+			shape=ellipse,
+			style=filled,
+			width=2.7499];
+		"passed'($CS23)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,238",
+			shape=ellipse,
+			style=filled,
+			width=2.7499];
+		"passed'($CS11)"		 [color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="528,916",
+			shape=ellipse,
+			style=filled,
+			width=2.7499];
+	}
+	"takeCourse($CS23)" -> "Reward Function"	 [pos="e,439.97,1287.4 200.37,1318.8 267.2,1310.1 360.19,1297.9 429.86,1288.7"];
+	"takeCourse($CS23)" -> "passed'($CS23)"	 [color=black,
+		pos="e,429.03,237.21 200.24,1321.6 210.73,1317.4 220.41,1311.4 228,1303 540.76,958.48 49.745,601.66 372,266 384.7,252.77 401.39,244.55\
+ 419.1,239.62",
+		style=solid];
+	"takeCourse($CS23)" -> "taken'($CS23)"	 [color=black,
+		pos="e,437.11,1340.2 200.37,1332.7 266.3,1334.8 357.69,1337.7 427.04,1339.8",
+		style=solid];
+	"takeCourse($CS11)" -> "Reward Function"	 [pos="e,439.57,1287.3 200.23,1532.8 210.05,1529.2 219.56,1524.7 228,1519 319.66,1457.1 280.9,1378.7 372,1316 389.11,1304.2 409.45,1295.9\
+ 429.67,1290"];
+	"takeCourse($CS11)" -> "passed'($CS11)"	 [color=black,
+		pos="e,442.55,925.41 200.23,1536.5 210.53,1532.3 220.15,1526.7 228,1519 410.2,1340.2 195.24,1147.2 372,963 388.27,946.05 410.43,935.15\
+ 432.91,928.17",
+		style=solid];
+	"takeCourse($CS11)" -> "taken'($CS11)"	 [color=black,
+		pos="e,495.56,1694 198.85,1564.1 208.76,1566.8 218.66,1569.8 228,1573 323.69,1606.1 430.12,1659.5 486.6,1689.2",
+		style=solid];
+	"taken($CS14)" -> "Reward Function"	 [pos="e,428.69,1285.5 193.36,1810.8 206.13,1806.5 218.33,1800.2 228,1791 387.95,1639.1 212.79,1468.7 372,1316 385.12,1303.4 401.64,1294.7\
+ 418.99,1288.6"];
+	"taken($CS14)" -> "taken'($CS14)"	 [color=black,
+		pos="e,501.03,1594.5 181.35,1807.2 197.07,1803.2 213.47,1797.9 228,1791 300.11,1757 307.18,1730.4 372,1684 413.06,1654.6 461.01,1621.7\
+ 492.58,1600.3",
+		style=solid];
+	"taken($CS34)" -> "Reward Function"	 [pos="e,446.64,1263.5 180.93,1123 196.73,1127.1 213.28,1132.3 228,1139 299.15,1171.4 300.62,1208.1 372,1240 392.23,1249 415.01,1255.9 \
+436.74,1261.2"];
+	"taken($CS34)" -> "taken'($CS34)"	 [color=black,
+		pos="e,439.93,797.33 190.06,1101.6 203.6,1097.4 216.92,1091.5 228,1083 332.36,1003.3 266.34,902.97 372,825 388.91,812.52 409.54,804.55\
+ 430.15,799.51",
+		style=solid];
+	"taken($CS22)" -> "Reward Function"	 [pos="e,438.28,1264.9 185.61,1066.8 200.25,1070.8 215.13,1076.4 228,1084 309.21,1132 290.44,1192.6 372,1240 389.16,1250 408.9,1257.2 428.42\
+,1262.4"];
+	"taken($CS22)" -> "taken'($CS22)"	 [color=black,
+		pos="e,437.91,738.73 190.11,1046.6 203.65,1042.5 216.95,1036.5 228,1028 333.57,946.68 264.36,843.57 372,765 388.29,753.11 408.02,745.58\
+ 427.86,740.88",
+		style=solid];
+	"takeCourse($CS31)" -> "passed'($CS31)"	 [color=black,
+		pos="e,428.92,512.58 200.04,1429.4 210.56,1425.2 220.3,1419.3 228,1411 495.19,1124.3 96.908,820.16 372,541 384.79,528.02 401.43,519.9\
+ 419.05,514.99",
+		style=solid];
+	"takeCourse($CS31)" -> "Reward Function"	 [pos="e,453.56,1289.7 200.28,1421 209.79,1418.1 219.21,1414.8 228,1411 298.35,1380.5 301.92,1347.1 372,1316 394.45,1306 419.87,1298.2 \
+443.53,1292.2"];
+	"takeCourse($CS31)" -> "taken'($CS31)"	 [color=black,
+		pos="e,446.99,1474.3 200.37,1447.3 269.45,1454.9 366.47,1465.5 436.81,1473.1",
+		style=solid];
+	"passed($CS14)" -> "passed'($CS31)"	 [color=black,
+		pos="e,432.21,508.27 191.64,248.73 204.52,252.78 217.19,258.35 228,266 323.08,333.31 274.81,420.78 372,485 387.01,494.92 404.55,501.59\
+ 422.33,506.03",
+		style=solid];
+	"passed($CS14)" -> "passed'($CS14)"	 [color=black,
+		pos="e,429.87,620.22 194.53,247.85 206.67,252.02 218.34,257.86 228,266 350.02,368.9 246.74,496.07 372,595 385.81,605.91 402.48,613.1 \
+419.69,617.76",
+		style=solid];
+	"passed($CS14)" -> "passed'($CS24)"	 [color=black,
+		pos="e,434.95,451.76 188.73,249.39 202.39,253.38 216.09,258.75 228,266 310.87,316.42 287.56,382.27 372,430 388.14,439.12 406.61,445.38\
+ 425.04,449.65",
+		style=solid];
+	"passed($CS14)" -> "passed'($CS23)"	 [color=black,
+		pos="e,428.98,238 209.52,238 271.87,238 353.73,238 418.7,238",
+		style=solid];
+	"passed($CS14)" -> "passed'($CS34)"	 [color=black,
+		pos="e,447.23,282.35 192.98,248.41 262.49,257.69 364.24,271.27 437.14,281",
+		style=solid];
+	"passed($CS14)" -> "passed'($CS22)"	 [color=black,
+		pos="e,447.23,193.65 192.98,227.59 262.49,218.31 364.24,204.73 437.14,195",
+		style=solid];
+	"passed($CS14)" -> "passed'($CS33)"	 [color=black,
+		pos="e,449.52,139.18 176.35,224.17 193.2,220 211.4,215.15 228,210 293.28,189.75 306.1,174.15 372,156 393.6,150.05 417.26,145.04 439.44\
+,140.98",
+		style=solid];
+	"passed($CS14)" -> "passed'($CS21)"	 [color=black,
+		pos="e,449.52,336.82 176.35,251.83 193.2,256 211.4,260.85 228,266 293.28,286.25 306.1,301.85 372,320 393.6,325.95 417.26,330.96 439.44\
+,335.02",
+		style=solid];
+	"passed($CS34)" -> "passed'($CS34)"	 [color=black,
+		pos="e,440,284.63 184.07,140.4 198.96,144.36 214.32,149.47 228,156 300.44,190.58 298.49,232.76 372,265 390.1,272.94 410.34,278.63 430.06\
+,282.7",
+		style=solid];
+	"passed($CS22)" -> "passed'($CS23)"	 [color=black,
+		pos="e,440,229.63 184.07,85.404 198.96,89.362 214.32,94.469 228,101 300.44,135.58 298.49,177.76 372,210 390.1,217.94 410.34,223.63 430.06\
+,227.7",
+		style=solid];
+	"passed($CS22)" -> "passed'($CS22)"	 [color=black,
+		pos="e,449.52,171.82 176.35,86.83 193.2,91 211.4,95.85 228,101 293.28,121.25 306.1,136.85 372,155 393.6,160.95 417.26,165.96 439.44,170.02",
+		style=solid];
+	"passed($CS22)" -> "passed'($CS33)"	 [color=black,
+		pos="e,447.23,117.35 192.98,83.41 262.49,92.69 364.24,106.27 437.14,116",
+		style=solid];
+	"taken($CS31)" -> "Reward Function"	 [pos="e,429.88,1285.7 192.8,1755.6 205.7,1751.3 218.09,1745.1 228,1736 373.5,1602.7 227.15,1450 372,1316 385.51,1303.5 402.41,1294.8 420.03\
+,1288.7"];
+	"taken($CS31)" -> "taken'($CS31)"	 [color=black,
+		pos="e,475.37,1498 187.32,1753.7 201.53,1749.6 215.81,1743.9 228,1736 315.59,1678.9 289.41,1614.1 372,1550 399.79,1528.4 435.59,1512.4\
+ 465.78,1501.4",
+		style=solid];
+	"takeCourse($CS12)" -> "Reward Function"	 [pos="e,435.76,1286.7 200.26,1587.8 210.19,1584.1 219.71,1579.3 228,1573 332.44,1494 268.27,1395.9 372,1316 387.73,1303.9 406.75,1295.4\
+ 425.99,1289.5"];
+	"takeCourse($CS12)" -> "passed'($CS12)"	 [color=black,
+		pos="e,429.84,1215.7 200.03,1589 210.17,1585.1 219.81,1579.9 228,1573 351.22,1469.6 245.95,1340.9 372,1241 385.79,1230.1 402.45,1222.9\
+ 419.66,1218.2",
+		style=solid];
+	"takeCourse($CS12)" -> "taken'($CS12)"	 [color=black,
+		pos="e,514.51,1905.9 200.23,1615 209.9,1618.2 219.37,1622.2 228,1627 355.67,1698.1 466.14,1839.1 508.53,1897.6",
+		style=solid];
+	"takeCourse($CS24)" -> "Reward Function"	 [pos="e,465.06,1291.6 192.31,1366 204.28,1363.1 216.49,1360 228,1357 292.38,1340.2 307.78,1333.4 372,1316 399.11,1308.6 428.98,1300.9 \
+455.2,1294.1"];
+	"takeCourse($CS24)" -> "taken'($CS24)"	 [color=black,
+		pos="e,439.61,1402.9 200.37,1389 267.09,1392.9 359.88,1398.3 429.51,1402.3",
+		style=solid];
+	"takeCourse($CS24)" -> "passed'($CS24)"	 [color=black,
+		pos="e,428.92,457.58 200.05,1375.4 210.56,1371.2 220.3,1365.3 228,1357 495.47,1069.9 96.626,765.5 372,486 384.79,473.02 401.43,464.89\
+ 419.05,459.98",
+		style=solid];
+	"taken($CS23)" -> "Reward Function"	 [pos="e,432.97,1286.3 192.32,1645.4 205.2,1641.3 217.7,1635.4 228,1627 345.88,1530.5 255,1413.5 372,1316 386.72,1303.7 404.77,1295.2 423.27\
+,1289.2"];
+	"taken($CS23)" -> "taken'($CS23)"	 [color=black,
+		pos="e,444.43,1350.7 190.78,1644.8 204.04,1640.8 217.06,1635.1 228,1627 329.78,1551.6 270.45,1456.7 372,1381 390.19,1367.4 412.6,1358.7\
+ 434.67,1353",
+		style=solid];
+	"takeCourse($CS32)" -> "Reward Function"	 [pos="e,429.23,1266.4 200.06,958.95 210.08,962.71 219.68,967.61 228,974 334.65,1055.8 265.09,1158.5 372,1240 385.87,1250.6 402.31,1258.1\
+ 419.23,1263.5"];
+	"takeCourse($CS32)" -> "taken'($CS32)"	 [color=black,
+		pos="e,446.29,981.58 200.37,955.91 269.22,963.1 365.84,973.18 436.12,980.52",
+		style=solid];
+	"takeCourse($CS32)" -> "passed'($CS32)"	 [color=black,
+		pos="e,429.92,570.85 200.26,935.77 210.3,931.9 219.86,926.77 228,920 349.18,819.26 248.06,693.32 372,596 385.84,585.13 402.52,577.96 \
+419.74,573.31",
+		style=solid];
+	"taken($CS11)" -> "Reward Function"	 [pos="e,427.57,1285.4 193.58,1866 206.33,1861.7 218.46,1855.3 228,1846 402.52,1675.3 198.3,1487.5 372,1316 384.76,1303.4 400.95,1294.6\
+ 418.01,1288.5"];
+	"taken($CS11)" -> "taken'($CS11)"	 [color=black,
+		pos="e,494.61,1728 176,1861 193.01,1856.8 211.38,1851.8 228,1846 322.82,1813.1 428.75,1761.6 485.59,1732.6",
+		style=solid];
+	"passed($CS23)" -> "passed'($CS31)"	 [color=black,
+		pos="e,440,504.63 184.07,360.4 198.96,364.36 214.32,369.47 228,376 300.44,410.58 298.49,452.76 372,485 390.1,492.94 410.34,498.63 430.06\
+,502.7",
+		style=solid];
+	"passed($CS23)" -> "passed'($CS24)"	 [color=black,
+		pos="e,449.52,446.82 176.35,361.83 193.2,366 211.4,370.85 228,376 293.28,396.25 306.1,411.85 372,430 393.6,435.95 417.26,440.96 439.44\
+,445.02",
+		style=solid];
+	"passed($CS23)" -> "passed'($CS23)"	 [color=black,
+		pos="e,449.52,249.18 176.35,334.17 193.2,330 211.4,325.15 228,320 293.28,299.75 306.1,284.15 372,266 393.6,260.05 417.26,255.04 439.44\
+,250.98",
+		style=solid];
+	"passed($CS11)" -> "passed'($CS31)"	 [color=black,
+		pos="e,447.23,502.35 192.98,468.41 262.49,477.69 364.24,491.27 437.14,501",
+		style=solid];
+	"passed($CS11)" -> "Reward Function"	 [pos="e,419.66,1268.1 197.91,466.73 209.2,471.08 219.73,477.27 228,486 462.62,733.69 135.57,994.04 372,1240 382.6,1251 395.87,1259 410.15\
+,1264.6"];
+	"passed($CS11)" -> "passed'($CS23)"	 [color=black,
+		pos="e,434.95,244.24 188.73,446.61 202.39,442.62 216.09,437.25 228,430 310.87,379.58 287.56,313.73 372,266 388.14,256.88 406.61,250.62\
+ 425.04,246.35",
+		style=solid];
+	"passed($CS11)" -> "passed'($CS34)"	 [color=black,
+		pos="e,440,301.37 184.07,445.6 198.96,441.64 214.32,436.53 228,430 300.44,395.42 298.49,353.24 372,321 390.1,313.06 410.34,307.37 430.06\
+,303.3",
+		style=solid];
+	"passed($CS11)" -> "passed'($CS11)"	 [color=black,
+		pos="e,435.44,909.45 195.55,467.55 207.42,471.77 218.75,477.7 228,486 366.47,610.22 233,755.37 372,879 387.03,892.37 406.03,901.13 425.53\
+,906.82",
+		style=solid];
+	"passed($CS11)" -> "passed'($CS33)"	 [color=black,
+		pos="e,430.54,131.66 193.46,447.75 205.86,443.63 217.9,437.92 228,430 336.26,345.12 261.07,237.36 372,156 386.19,145.59 403.05,138.65\
+ 420.33,134.08",
+		style=solid];
+	"passed($CS11)" -> "passed'($CS21)"	 [color=black,
+		pos="e,449.52,359.18 176.35,444.17 193.2,440 211.4,435.15 228,430 293.28,409.75 306.1,394.15 372,376 393.6,370.05 417.26,365.04 439.44\
+,360.98",
+		style=solid];
+	"passed($CS11)" -> "passed'($CS32)"	 [color=black,
+		pos="e,449.52,556.82 176.35,471.83 193.2,476 211.4,480.85 228,486 293.28,506.25 306.1,521.85 372,540 393.6,545.95 417.26,550.96 439.44\
+,555.02",
+		style=solid];
+	"passed($CS31)" -> "passed'($CS31)"	 [color=black,
+		pos="e,447.23,523.65 192.98,557.59 262.49,548.31 364.24,534.73 437.14,525",
+		style=solid];
+	"passed($CS31)" -> "passed'($CS32)"	 [color=black,
+		pos="e,428.98,568 209.52,568 271.87,568 353.73,568 418.7,568",
+		style=solid];
+	"takeCourse($CS33)" -> "Reward Function"	 [pos="e,421.65,1267.6 200.17,686.61 210.47,690.71 220.12,696.34 228,704 404.84,875.97 194.62,1068.6 372,1240 383.24,1250.9 397.09,1258.7\
+ 411.85,1264.3"];
+	"takeCourse($CS33)" -> "passed'($CS33)"	 [color=black,
+		pos="e,428.99,129.17 200.02,667.24 210.35,663.16 220.04,657.58 228,650 393.63,492.31 202.03,309.01 372,156 385.29,144.04 401.9,136.36\
+ 419.28,131.56",
+		style=solid];
+	"takeCourse($CS33)" -> "taken'($CS33)"	 [color=black,
+		pos="e,436.03,678.56 200.37,677.41 265.96,677.73 356.76,678.17 425.98,678.51",
+		style=solid];
+	"takeCourse($CS13)" -> "Reward Function"	 [pos="e,426.5,1266.7 200.23,904.26 210.28,908.13 219.84,913.25 228,920 348.16,1019.4 251.53,1141 372,1240 385.02,1250.7 400.64,1258.4 \
+416.89,1263.8"];
+	"takeCourse($CS13)" -> "taken'($CS13)"	 [color=black,
+		pos="e,483.54,1067.1 200.01,909.8 209.62,912.73 219.13,916.11 228,920 298.66,951.02 304.19,980.16 372,1017 404.81,1034.8 443.45,1051.3\
+ 473.94,1063.3",
+		style=solid];
+	"takeCourse($CS13)" -> "passed'($CS13)"	 [color=black,
+		pos="e,429.36,404.59 200.05,882.86 210.31,878.83 219.98,873.37 228,866 378,728.26 218.21,564.5 372,431 385.5,419.28 402.22,411.72 419.63\
+,406.96",
+		style=solid];
+	"Current State and Actions" -> "Next State and Reward"	 [color=black,
+		pos="e,426.16,1983 227.58,1983 286.25,1983 357.75,1983 416.16,1983",
+		style=invis];
+	"taken($CS24)" -> "Reward Function"	 [pos="e,431.17,1286 192.17,1700.3 205.21,1696.1 217.81,1689.9 228,1681 359.23,1566.1 241.33,1431.5 372,1316 385.97,1303.7 403.26,1295 \
+421.17,1289"];
+	"taken($CS24)" -> "taken'($CS24)"	 [color=black,
+		pos="e,455.36,1419.2 188.77,1699.3 202.65,1695.2 216.42,1689.3 228,1681 324.48,1611.8 277.55,1527.9 372,1456 393.27,1439.8 420.07,1429\
+ 445.38,1421.9",
+		style=solid];
+	"taken($CS12)" -> "Reward Function"	 [pos="e,426.9,1285.2 194.05,1921.1 206.68,1916.8 218.65,1910.4 228,1901 417.19,1711.5 183.73,1506.4 372,1316 384.41,1303.4 400.21,1294.7\
+ 416.95,1288.5"];
+	"taken($CS12)" -> "taken'($CS12)"	 [color=black,
+		pos="e,436.19,1925.1 202.37,1927.9 267.76,1927.1 357.32,1926.1 425.81,1925.2",
+		style=solid];
+	"takeCourse($CS21)" -> "Reward Function"	 [pos="e,424.75,1267.1 200.01,849.62 210.22,853.58 219.88,858.89 228,866 362.04,983.3 237.59,1123.1 372,1240 384.34,1250.7 399.27,1258.4\
+ 414.92,1263.9"];
+	"takeCourse($CS21)" -> "taken'($CS21)"	 [color=black,
+		pos="e,437.11,849.16 200.37,841.69 266.3,843.77 357.69,846.66 427.04,848.85",
+		style=solid];
+	"takeCourse($CS21)" -> "passed'($CS21)"	 [color=black,
+		pos="e,429.35,349.58 200.06,828.86 210.32,824.83 219.98,819.37 228,812 378.26,673.92 217.94,509.83 372,376 385.5,364.27 402.21,356.71\
+ 419.62,351.95",
+		style=solid];
+	"taken($CS32)" -> "Reward Function"	 [pos="e,440.79,1264.5 188.66,1230.8 256.19,1239.8 356.63,1253.3 430.54,1263.1"];
+	"taken($CS32)" -> "taken'($CS32)"	 [color=black,
+		pos="e,478.67,1005.5 184.06,1209.9 199.1,1205.9 214.53,1200.4 228,1193 305.45,1150.5 298.18,1104.5 372,1056 401.99,1036.3 438.85,1020.3\
+ 469.1,1009",
+		style=solid];
+	"passed($CS24)" -> "passed'($CS31)"	 [color=black,
+		pos="e,449.52,501.82 176.35,416.83 193.2,421 211.4,425.85 228,431 293.28,451.25 306.1,466.85 372,485 393.6,490.95 417.26,495.96 439.44\
+,500.02",
+		style=solid];
+	"passed($CS24)" -> "passed'($CS24)"	 [color=black,
+		pos="e,447.23,447.35 192.98,413.41 262.49,422.69 364.24,436.27 437.14,446",
+		style=solid];
+	"passed($CS24)" -> "passed'($CS34)"	 [color=black,
+		pos="e,449.52,304.18 176.35,389.17 193.2,385 211.4,380.15 228,375 293.28,354.75 306.1,339.15 372,321 393.6,315.05 417.26,310.04 439.44\
+,305.98",
+		style=solid];
+	"passed($CS12)" -> "passed'($CS24)"	 [color=black,
+		pos="e,447.23,468.65 192.98,502.59 262.49,493.31 364.24,479.73 437.14,470",
+		style=solid];
+	"passed($CS12)" -> "passed'($CS12)"	 [color=black,
+		pos="e,486.48,1196.3 197.17,522.06 208.63,526.36 219.4,532.45 228,541 412.92,725 221.26,897.1 372,1110 398.39,1147.3 442.9,1174.8 477.47\
+,1192",
+		style=solid];
+	"passed($CS12)" -> "passed'($CS22)"	 [color=black,
+		pos="e,430.54,186.66 193.46,502.75 205.86,498.63 217.9,492.92 228,485 336.26,400.12 261.07,292.36 372,211 386.19,200.59 403.05,193.65\
+ 420.33,189.08",
+		style=solid];
+	"passed($CS12)" -> "passed'($CS32)"	 [color=black,
+		pos="e,447.23,557.35 192.98,523.41 262.49,532.69 364.24,546.27 437.14,556",
+		style=solid];
+	"passed($CS32)" -> "passed'($CS32)"	 [color=black,
+		pos="e,447.23,578.65 192.98,612.59 262.49,603.31 364.24,589.73 437.14,580",
+		style=solid];
+	"takeCourse($CS34)" -> "Reward Function"	 [pos="e,423.5,1267.3 200.02,795.18 210.28,799.2 219.96,804.65 228,812 376.16,947.39 223.41,1105.1 372,1240 383.94,1250.8 398.5,1258.6 \
+413.85,1264.1"];
+	"takeCourse($CS34)" -> "passed'($CS34)"	 [color=black,
+		pos="e,429.34,294.58 200.06,774.87 210.32,770.84 219.98,765.37 228,758 378.53,619.58 217.67,455.16 372,321 385.49,309.27 402.21,301.7\
+ 419.62,296.94",
+		style=solid];
+	"takeCourse($CS34)" -> "taken'($CS34)"	 [color=black,
+		pos="e,436.39,790.46 200.37,786.45 266.08,787.57 357.07,789.11 426.33,790.29",
+		style=solid];
+	"takeCourse($CS22)" -> "Reward Function"	 [pos="e,422.35,1267.5 200.26,740.92 210.48,744.99 220.09,750.52 228,758 390.44,911.62 209.07,1086.9 372,1240 383.48,1250.8 397.53,1258.6\
+ 412.44,1264.1"];
+	"takeCourse($CS22)" -> "passed'($CS22)"	 [color=black,
+		pos="e,428.99,184.18 200.01,721.23 210.34,717.15 220.04,711.58 228,704 393.37,546.65 202.31,363.68 372,211 385.29,199.04 401.91,191.36\
+ 419.28,186.56",
+		style=solid];
+	"takeCourse($CS22)" -> "taken'($CS22)"	 [color=black,
+		pos="e,436.03,734.12 200.37,731.83 265.96,732.47 356.76,733.35 425.98,734.02",
+		style=solid];
+	"takeCourse($CS14)" -> "Reward Function"	 [pos="e,445.27,1288.3 200.03,1477.3 209.78,1474 219.33,1469.9 228,1465 307.99,1419.4 292.42,1362.4 372,1316 391.26,1304.8 413.67,1296.7\
+ 435.36,1290.8"];
+	"takeCourse($CS14)" -> "taken'($CS14)"	 [color=black,
+		pos="e,463.61,1563.9 200.37,1509.6 275.06,1525 382.43,1547.2 453.41,1561.8",
+		style=solid];
+	"takeCourse($CS14)" -> "passed'($CS14)"	 [color=black,
+		pos="e,429,623.38 200.24,1483.2 210.66,1479 220.32,1473.1 228,1465 479.68,1198 113.78,912.73 372,652 384.84,639.03 401.5,630.85 419.13\
+,625.85",
+		style=solid];
+	"taken($CS13)" -> "Reward Function"	 [pos="e,371.71,1276 202.63,1276 248.89,1276 307.21,1276 361.6,1276"];
+	"taken($CS13)" -> "taken'($CS13)"	 [color=black,
+		pos="e,500.94,1100.5 178.08,1263.5 194.59,1259.3 212.19,1254.2 228,1248 328.92,1208.4 438.19,1141.2 492.41,1106",
+		style=solid];
+	"taken($CS33)" -> "Reward Function"	 [pos="e,432.6,1265.7 188.28,1010.9 202.28,1015 216.22,1020.8 228,1029 321.23,1093.8 278.3,1175.9 372,1240 387.1,1250.3 404.76,1257.7 422.65\
+,1263"];
+	"taken($CS33)" -> "taken'($CS33)"	 [color=black,
+		pos="e,437.09,682.19 191.3,992.03 204.43,988 217.28,982.23 228,974 334.65,892.15 263.36,787.18 372,708 388.09,696.28 407.54,688.87 427.15\
+,684.28",
+		style=solid];
+	"taken($CS21)" -> "Reward Function"	 [pos="e,458.8,1261.4 172.97,1179.6 190.7,1183.9 210.21,1189 228,1194 292.64,1212.3 307.22,1222.2 372,1240 396.81,1246.8 424.1,1253.5 448.76\
+,1259.1"];
+	"taken($CS21)" -> "taken'($CS21)"	 [color=black,
+		pos="e,443.2,859.29 189.66,1156.5 203.31,1152.4 216.77,1146.4 228,1138 330.18,1061.2 269.49,965.39 372,889 389.79,875.74 411.66,867.16\
+ 433.29,861.62",
+		style=solid];
+	"passed($CS13)" -> "passed'($CS13)"	 [color=black,
+		pos="e,434.95,396.76 188.73,194.39 202.39,198.38 216.09,203.75 228,211 310.87,261.42 287.56,327.27 372,375 388.14,384.12 406.61,390.38\
+ 425.04,394.65",
+		style=solid];
+	"passed($CS13)" -> "passed'($CS24)"	 [color=black,
+		pos="e,432.21,453.27 191.64,193.73 204.52,197.78 217.19,203.35 228,211 323.08,278.31 274.81,365.78 372,430 387.01,439.92 404.55,446.59\
+ 422.33,451.03",
+		style=solid];
+	"passed($CS13)" -> "passed'($CS23)"	 [color=black,
+		pos="e,447.23,227.35 192.98,193.41 262.49,202.69 364.24,216.27 437.14,226",
+		style=solid];
+	"passed($CS13)" -> "passed'($CS34)"	 [color=black,
+		pos="e,449.52,281.82 176.35,196.83 193.2,201 211.4,205.85 228,211 293.28,231.25 306.1,246.85 372,265 393.6,270.95 417.26,275.96 439.44\
+,280.02",
+		style=solid];
+	"passed($CS13)" -> "passed'($CS22)"	 [color=black,
+		pos="e,428.98,183 209.52,183 271.87,183 353.73,183 418.7,183",
+		style=solid];
+	"passed($CS13)" -> "passed'($CS21)"	 [color=black,
+		pos="e,440,339.63 184.07,195.4 198.96,199.36 214.32,204.47 228,211 300.44,245.58 298.49,287.76 372,320 390.1,327.94 410.34,333.63 430.06\
+,337.7",
+		style=solid];
+	"passed($CS33)" -> "passed'($CS33)"	 [color=black,
+		pos="e,473.09,112.78 173.72,32.257 191.21,36.582 210.4,41.407 228,46 309.4,67.244 402.86,93.114 463.31,110.04",
+		style=solid];
+	"passed($CS21)" -> "passed'($CS24)"	 [color=black,
+		pos="e,440,449.63 184.07,305.4 198.96,309.36 214.32,314.47 228,321 300.44,355.58 298.49,397.76 372,430 390.1,437.94 410.34,443.63 430.06\
+,447.7",
+		style=solid];
+	"passed($CS21)" -> "passed'($CS34)"	 [color=black,
+		pos="e,428.98,293 209.52,293 271.87,293 353.73,293 418.7,293",
+		style=solid];
+	"passed($CS21)" -> "passed'($CS22)"	 [color=black,
+		pos="e,449.52,194.18 176.35,279.17 193.2,275 211.4,270.15 228,265 293.28,244.75 306.1,229.15 372,211 393.6,205.05 417.26,200.04 439.44\
+,195.98",
+		style=solid];
+	"passed($CS21)" -> "passed'($CS21)"	 [color=black,
+		pos="e,447.23,337.35 192.98,303.41 262.49,312.69 364.24,326.27 437.14,336",
+		style=solid];
+	"passed($CS21)" -> "passed'($CS32)"	 [color=black,
+		pos="e,432.21,563.27 191.64,303.73 204.52,307.78 217.19,313.35 228,321 323.08,388.31 274.81,475.78 372,540 387.01,549.92 404.55,556.59\
+ 422.33,561.03",
+		style=solid];
+}

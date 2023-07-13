@@ -1,0 +1,13 @@
+domain,prost,symnet2,kl
+tamarisk,0.9,0.91,0.92
+traffic,0.95,0.87,0.83
+sysadmin,0.84,0.78,0.87
+skill_teaching,0.88,0.87,0.6
+navigation,0.0,0.3,0.32
+triangle_tireworld,0.03,0.57,0.62
+recon,0.72,0.2,0.14
+elevators,0.95,0.93,0.67
+academic_advising,0.66,0.86,0.93
+crossing_traffic,0.37,0.83,0.79
+game_of_life,0.41,0.83,0.33
+wildfire,0.68,0.83,-0.38
