@@ -1,6 +1,6 @@
 data/
-rddl/
 symnet3_data.zip
+multi_train/deep_plan/models
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
